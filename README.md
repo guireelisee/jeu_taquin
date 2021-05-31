@@ -4,7 +4,7 @@ Réalisation du jeu de taquin en langage C
 
 ## Démarrage
 
-Pour lancer le programme naviguez dans le repertoire ``jeu_taquin` au niveau de votre terminal.
+Pour lancer le programme naviguez dans le repertoire ``jeu_taquin`` au niveau de votre terminal.
 
  Executez ensuite la commande ``make`` pour compiler et lancer le programme.
 
